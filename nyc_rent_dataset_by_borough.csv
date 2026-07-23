@@ -1,0 +1,106 @@
+YEAR,BOROUGH,MARKET_TREND,MEDIAN_RENT_USD,AVG_RENT_USD,MEDIAN_INCOME_USD,NEW_UNITS_BUILT,POPULATION,POPULATION_DENSITY_PER_KM2,AREA_KM2,TIPO_RESIDENTE,MIGRATION_STATUS
+2005,Manhattan,Estable,"$1,918.70"," $ 2,039.28 "," $ 58,024.63 ",30174,"1,623,473","27,470",59.1,Profesionales y ejecutivos,SALIDA
+2006,Manhattan,Estable,"$1,921.78"," $ 2,086.88 "," $ 58,474.00 ",29278,"1,628,039","27,547",59.1,Profesionales y ejecutivos,SALIDA
+2007,Manhattan,En alza,"$2,016.62"," $ 2,205.91 "," $ 59,922.83 ",31261,"1,635,996","27,682",59.1,Profesionales y ejecutivos,SALIDA
+2008,Manhattan,En alza,"$2,083.58"," $ 2,254.12 "," $ 60,981.50 ",27602,"1,633,175","27,634",59.1,Profesionales y ejecutivos,SALIDA
+2009,Manhattan,En baja,"$2,042.77"," $ 2,225.31 "," $ 62,287.41 ",26025,"1,659,087","28,072",59.1,Profesionales y ejecutivos,SALIDA
+2010,Manhattan,Estable,"$2,081.75"," $ 2,217.16 "," $ 63,818.79 ",23214,"1,650,136","27,921",59.1,Profesionales y ejecutivos,SALIDA
+2011,Manhattan,En alza,"$2,229.03"," $ 2,411.48 "," $ 63,900.94 ",30162,"1,663,688","28,150",59.1,Profesionales y ejecutivos,SALIDA
+2012,Manhattan,Estable,"$2,289.76"," $ 2,486.57 "," $ 66,076.22 ",31124,"1,667,032","28,207",59.1,Profesionales y ejecutivos,SALIDA
+2013,Manhattan,En alza,"$2,365.83"," $ 2,552.05 "," $ 65,750.38 ",28988,"1,670,514","28,266",59.1,Profesionales y ejecutivos,SALIDA
+2014,Manhattan,Estable,"$2,419.43"," $ 2,581.68 "," $ 67,905.05 ",31556,"1,683,972","28,494",59.1,Profesionales y ejecutivos,SALIDA
+2015,Manhattan,Estable,"$2,435.43"," $ 2,589.20 "," $ 70,367.15 ",30142,"1,690,335","28,601",59.1,Profesionales y ejecutivos,SALIDA
+2016,Manhattan,Estable,"$2,505.47"," $ 2,723.78 "," $ 70,907.34 ",30224,"1,692,929","28,645",59.1,Profesionales y ejecutivos,SALIDA
+2017,Manhattan,En alza,"$2,627.29"," $ 2,823.18 "," $ 71,843.92 ",31302,"1,699,242","28,752",59.1,Profesionales y ejecutivos,SALIDA
+2018,Manhattan,Estable,"$2,611.59"," $ 2,810.86 "," $ 72,688.62 ",32014,"1,711,225","28,955",59.1,Profesionales y ejecutivos,SALIDA
+2019,Manhattan,Estable,"$2,682.92"," $ 2,885.57 "," $ 75,012.65 ",29069,"1,717,077","29,054",59.1,Profesionales y ejecutivos,SALIDA
+2020,Manhattan,En baja,"$2,584.11"," $ 2,824.44 "," $ 74,352.95 ",22398,"1,694,251","28,668",59.1,Profesionales y ejecutivos,SALIDA
+2021,Manhattan,En alza,"$2,769.26"," $ 3,054.58 "," $ 78,614.96 ",27685,"1,731,226","29,293",59.1,Profesionales y ejecutivos,SALIDA
+2022,Manhattan,En alza,"$2,953.69"," $ 3,217.44 "," $ 78,651.00 ",36469,"1,733,625","29,334",59.1,Profesionales y ejecutivos,SALIDA
+2023,Manhattan,Estable,"$2,991.62"," $ 3,251.48 "," $ 79,754.15 ",25549,"1,745,050","29,527",59.1,Profesionales y ejecutivos,SALIDA
+2024,Manhattan,Estable,"$3,059.76"," $ 3,307.02 "," $ 81,093.80 ",26450,"1,740,578","29,451",59.1,Profesionales y ejecutivos,SALIDA
+2025,Manhattan,En alza,"$3,180.95"," $ 3,489.40 "," $ 83,660.30 ",28574,"1,754,231","29,682",59.1,Profesionales y ejecutivos,SALIDA
+2005,Brooklyn,Estable,"$1,464.93"," $ 1,552.36 "," $ 50,299.75 ",48723,"2,600,905","14,182",183.4,Familias y trabajadores,SALIDA
+2006,Brooklyn,En alza,"$1,531.68"," $ 1,658.48 "," $ 51,993.77 ",53228,"2,613,560","14,251",183.4,Familias y trabajadores,SALIDA
+2007,Brooklyn,Estable,"$1,556.46"," $ 1,705.71 "," $ 52,577.64 ",46843,"2,612,614","14,245",183.4,Familias y trabajadores,SALIDA
+2008,Brooklyn,En alza,"$1,624.47"," $ 1,753.82 "," $ 53,553.00 ",44177,"2,634,582","14,365",183.4,Familias y trabajadores,SALIDA
+2009,Brooklyn,En baja,"$1,600.66"," $ 1,722.11 "," $ 54,410.40 ",38168,"2,652,347","14,462",183.4,Familias y trabajadores,SALIDA
+2010,Brooklyn,En alza,"$1,667.19"," $ 1,789.73 "," $ 56,079.59 ",39977,"2,666,354","14,538",183.4,Familias y trabajadores,SALIDA
+2011,Brooklyn,En alza,"$1,759.20"," $ 1,877.15 "," $ 56,355.07 ",51805,"2,679,527","14,610",183.4,Familias y trabajadores,SALIDA
+2012,Brooklyn,En alza,"$1,827.11"," $ 2,021.75 "," $ 58,131.07 ",48398,"2,684,162","14,636",183.4,Jovenes profesionales,SALIDA
+2013,Brooklyn,En alza,"$1,909.92"," $ 2,092.45 "," $ 59,495.17 ",45864,"2,680,723","14,617",183.4,Jovenes profesionales,SALIDA
+2014,Brooklyn,Estable,"$1,946.66"," $ 2,112.23 "," $ 59,456.85 ",59482,"2,685,642","14,644",183.4,Jovenes profesionales,SALIDA
+2015,Brooklyn,Estable,"$1,996.91"," $ 2,148.04 "," $ 60,894.68 ",37207,"2,719,097","14,826",183.4,Jovenes profesionales,SALIDA
+2016,Brooklyn,En alza,"$2,074.58"," $ 2,231.17 "," $ 62,204.66 ",48056,"2,719,853","14,830",183.4,Jovenes profesionales,SALIDA
+2017,Brooklyn,En alza,"$2,149.19"," $ 2,312.33 "," $ 63,435.75 ",45936,"2,740,363","14,942",183.4,Jovenes profesionales,SALIDA
+2018,Brooklyn,Estable,"$2,170.16"," $ 2,346.48 "," $ 64,719.58 ",42521,"2,742,847","14,956",183.4,Jovenes profesionales,SALIDA
+2019,Brooklyn,En alza,"$2,264.12"," $ 2,517.51 "," $ 65,535.64 ",58747,"2,743,543","14,959",183.4,Jovenes profesionales,SALIDA
+2020,Brooklyn,En baja,"$2,207.11"," $ 2,358.04 "," $ 65,419.00 ",37091,"2,736,074","14,919",183.4,Jovenes profesionales,SALIDA
+2021,Brooklyn,En alza,"$2,340.37"," $ 2,493.63 "," $ 67,627.62 ",46329,"2,770,399","15,106",183.4,Jovenes profesionales,SALIDA
+2022,Brooklyn,En alza,"$2,473.57"," $ 2,672.02 "," $ 69,265.11 ",40694,"2,769,466","15,101",183.4,Jovenes profesionales,SALIDA
+2023,Brooklyn,En alza,"$2,627.96"," $ 2,835.10 "," $ 69,586.49 ",46914,"2,800,541","15,270",183.4,Jovenes profesionales,SALIDA
+2024,Brooklyn,Estable,"$2,681.39"," $ 2,898.32 "," $ 71,281.00 ",58034,"2,805,798","15,299",183.4,Jovenes profesionales,SALIDA
+2025,Brooklyn,Estable,"$2,743.47"," $ 2,959.85 "," $ 72,782.70 ",53857,"2,821,577","15,385",183.4,Jovenes profesionales,SALIDA
+2005,Bronx,Estable,"$1,078.17"," $ 1,170.92 "," $ 38,817.53 ",22408,"1,413,002","12,963",109,Familias de ingresos bajos,SALIDA
+2006,Bronx,Estable,"$1,103.06"," $ 1,206.45 "," $ 39,081.67 ",24718,"1,416,747","12,998",109,Familias de ingresos bajos,SALIDA
+2007,Bronx,Estable,"$1,129.19"," $ 1,217.68 "," $ 40,154.36 ",26097,"1,409,374","12,930",109,Familias de ingresos bajos,SALIDA
+2008,Bronx,Estable,"$1,159.47"," $ 1,241.49 "," $ 40,290.48 ",25698,"1,420,079","13,028",109,Familias de ingresos bajos,SALIDA
+2009,Bronx,En baja,"$1,127.84"," $ 1,202.95 "," $ 41,064.58 ",17821,"1,428,772","13,108",109,Familias de ingresos bajos,SALIDA
+2010,Bronx,En alza,"$1,175.00"," $ 1,286.17 "," $ 41,520.76 ",20975,"1,436,051","13,175",109,Familias de ingresos bajos,SALIDA
+2011,Bronx,Estable,"$1,205.58"," $ 1,295.72 "," $ 43,378.13 ",27227,"1,433,912","13,155",109,Familias de ingresos bajos,SALIDA
+2012,Bronx,En alza,"$1,258.32"," $ 1,381.01 "," $ 43,609.65 ",28441,"1,443,986","13,248",109,Familias de ingresos bajos,SALIDA
+2013,Bronx,Estable,"$1,289.00"," $ 1,396.82 "," $ 44,153.17 ",22055,"1,457,661","13,373",109,Familias de ingresos bajos,SALIDA
+2014,Bronx,Estable,"$1,322.56"," $ 1,435.72 "," $ 45,010.81 ",25546,"1,459,862","13,393",109,Familias de ingresos bajos,SALIDA
+2015,Bronx,Estable,"$1,328.05"," $ 1,444.90 "," $ 46,690.58 ",25411,"1,463,833","13,430",109,Familias de ingresos bajos,SALIDA
+2016,Bronx,En alza,"$1,378.38"," $ 1,492.03 "," $ 46,835.24 ",24337,"1,471,081","13,496",109,Familias de ingresos bajos,SALIDA
+2017,Bronx,Estable,"$1,400.94"," $ 1,531.98 "," $ 47,564.41 ",28275,"1,488,702","13,658",109,Familias de ingresos bajos,SALIDA
+2018,Bronx,Estable,"$1,431.70"," $ 1,564.13 "," $ 48,478.07 ",28552,"1,496,200","13,727",109,Familias de ingresos bajos,SALIDA
+2019,Bronx,Estable,"$1,450.26"," $ 1,569.82 "," $ 49,470.83 ",25999,"1,494,961","13,715",109,Familias de ingresos bajos,SALIDA
+2020,Bronx,En baja,"$1,399.04"," $ 1,524.66 "," $ 48,602.47 ",19942,"1,472,654","13,511",109,Familias de ingresos bajos,SALIDA
+2021,Bronx,En alza,"$1,486.16"," $ 1,646.35 "," $ 51,920.25 ",27709,"1,492,383","13,692",109,Familias de ingresos bajos,SALIDA
+2022,Bronx,En alza,"$1,553.57"," $ 1,691.48 "," $ 52,291.07 ",26224,"1,508,441","13,839",109,Familias de ingresos bajos,SALIDA
+2023,Bronx,En alza,"$1,630.43"," $ 1,771.63 "," $ 53,017.35 ",25845,"1,494,792","13,714",109,Familias de ingresos bajos,SALIDA
+2024,Bronx,Estable,"$1,655.06"," $ 1,794.74 "," $ 54,351.28 ",27729,"1,514,141","13,891",109,Familias de ingresos bajos,SALIDA
+2025,Bronx,En alza,"$1,715.25"," $ 1,852.86 "," $ 54,657.13 ",26390,"1,518,995","13,936",109,Familias de ingresos bajos,SALIDA
+2005,Queens,Estable,"$1,463.27"," $ 1,602.63 "," $ 52,841.73 ",42445,"2,321,120","8,202",283,Familias diversas e inmigrantes,SALIDA
+2006,Queens,En alza,"$1,543.52"," $ 1,678.06 "," $ 53,530.25 ",39566,"2,308,017","8,156",283,Familias diversas e inmigrantes,SALIDA
+2007,Queens,En alza,"$1,600.66"," $ 1,704.90 "," $ 54,175.45 ",41121,"2,321,596","8,204",283,Familias diversas e inmigrantes,SALIDA
+2008,Queens,En alza,"$1,661.18"," $ 1,780.01 "," $ 56,077.92 ",42942,"2,324,670","8,214",283,Familias diversas e inmigrantes,SALIDA
+2009,Queens,En baja,"$1,616.13"," $ 1,737.58 "," $ 56,321.67 ",29637,"2,324,808","8,215",283,Familias diversas e inmigrantes,SALIDA
+2010,Queens,En alza,"$1,682.60"," $ 1,817.66 "," $ 57,033.49 ",35671,"2,350,403","8,305",283,Familias diversas e inmigrantes,SALIDA
+2011,Queens,En alza,"$1,775.15"," $ 1,906.93 "," $ 58,949.58 ",48170,"2,362,214","8,347",283,Familias diversas e inmigrantes,SALIDA
+2012,Queens,Estable,"$1,826.08"," $ 1,963.85 "," $ 60,371.54 ",41110,"2,377,390","8,401",283,Familias diversas e inmigrantes,SALIDA
+2013,Queens,En alza,"$1,901.81"," $ 2,057.99 "," $ 60,716.30 ",38884,"2,368,361","8,369",283,Familias diversas e inmigrantes,SALIDA
+2014,Queens,En alza,"$1,981.64"," $ 2,135.12 "," $ 61,735.06 ",40479,"2,383,533","8,422",283,Familias diversas e inmigrantes,SALIDA
+2015,Queens,Estable,"$2,008.22"," $ 2,178.31 "," $ 62,564.56 ",43575,"2,401,130","8,485",283,Familias diversas e inmigrantes,SALIDA
+2016,Queens,En alza,"$2,076.64"," $ 2,259.39 "," $ 63,845.87 ",45845,"2,417,762","8,543",283,Familias diversas e inmigrantes,SALIDA
+2017,Queens,Estable,"$2,114.95"," $ 2,286.34 "," $ 64,809.24 ",42536,"2,413,952","8,530",283,Familias diversas e inmigrantes,SALIDA
+2018,Queens,En alza,"$2,196.57"," $ 2,355.01 "," $ 65,610.24 ",42688,"2,413,437","8,528",283,Familias diversas e inmigrantes,SALIDA
+2019,Queens,En alza,"$2,300.72"," $ 2,475.85 "," $ 67,494.68 ",42272,"2,445,565","8,642",283,Familias diversas e inmigrantes,SALIDA
+2020,Queens,En baja,"$2,182.30"," $ 2,317.73 "," $ 66,703.66 ",29688,"2,405,464","8,500",283,Familias diversas e inmigrantes,SALIDA
+2021,Queens,En alza,"$2,305.91"," $ 2,515.93 "," $ 70,156.05 ",41360,"2,440,233","8,623",283,Familias diversas e inmigrantes,SALIDA
+2022,Queens,En alza,"$2,489.38"," $ 2,682.86 "," $ 71,819.02 ",40058,"2,453,904","8,671",283,Familias diversas e inmigrantes,SALIDA
+2023,Queens,En alza,"$2,618.51"," $ 2,849.42 "," $ 72,945.51 ",40860,"2,472,935","8,738",283,Familias diversas e inmigrantes,SALIDA
+2024,Queens,Estable,"$2,644.25"," $ 2,885.31 "," $ 73,131.22 ",46575,"2,485,373","8,782",283,Familias diversas e inmigrantes,SALIDA
+2025,Queens,En alza,"$2,795.72"," $ 3,019.09 "," $ 75,790.08 ",43316,"2,490,721","8,801",283,Familias diversas e inmigrantes,SALIDA
+2005,Staten Island,Estable,"$1,184.51"," $ 1,274.60 "," $ 49,294.87 ",7695,"475,267","3,143",151.2,Familias suburbanas,SALIDA
+2006,Staten Island,Estable,"$1,189.60"," $ 1,284.35 "," $ 49,310.37 ",8955,"475,525","3,145",151.2,Familias suburbanas,SALIDA
+2007,Staten Island,En alza,"$1,227.31"," $ 1,321.49 "," $ 50,429.66 ",8438,"480,629","3,179",151.2,Familias suburbanas,SALIDA
+2008,Staten Island,En alza,"$1,269.99"," $ 1,389.83 "," $ 50,916.32 ",8565,"477,639","3,159",151.2,Familias suburbanas,SALIDA
+2009,Staten Island,En baja,"$1,248.70"," $ 1,358.29 "," $ 52,512.08 ",6072,"483,783","3,200",151.2,Familias suburbanas,SALIDA
+2010,Staten Island,Estable,"$1,238.07"," $ 1,342.85 "," $ 53,373.50 ",6216,"488,408","3,230",151.2,Familias suburbanas,SALIDA
+2011,Staten Island,En alza,"$1,325.76"," $ 1,443.03 "," $ 53,544.50 ",9282,"487,740","3,226",151.2,Familias suburbanas,SALIDA
+2012,Staten Island,Estable,"$1,348.29"," $ 1,448.42 "," $ 55,055.27 ",7885,"487,929","3,227",151.2,Familias suburbanas,SALIDA
+2013,Staten Island,Estable,"$1,358.37"," $ 1,468.09 "," $ 56,420.00 ",8974,"492,124","3,255",151.2,Familias suburbanas,SALIDA
+2014,Staten Island,Estable,"$1,359.72"," $ 1,473.40 "," $ 57,967.15 ",10074,"492,793","3,259",151.2,Familias suburbanas,SALIDA
+2015,Staten Island,En alza,"$1,414.76"," $ 1,541.31 "," $ 57,842.35 ",9867,"494,799","3,272",151.2,Familias suburbanas,SALIDA
+2016,Staten Island,En alza,"$1,459.19"," $ 1,572.57 "," $ 59,489.20 ",8349,"499,146","3,301",151.2,Familias suburbanas,SALIDA
+2017,Staten Island,Estable,"$1,456.90"," $ 1,587.86 "," $ 60,455.41 ",8954,"499,273","3,302",151.2,Familias suburbanas,SALIDA
+2018,Staten Island,En alza,"$1,504.13"," $ 1,617.20 "," $ 61,051.31 ",9771,"502,881","3,326",151.2,Familias suburbanas,SALIDA
+2019,Staten Island,Estable,"$1,519.85"," $ 1,625.61 "," $ 61,537.54 ",9421,"505,266","3,342",151.2,Familias suburbanas,SALIDA
+2020,Staten Island,En baja,"$1,476.41"," $ 1,612.29 "," $ 61,854.84 ",6444,"495,747","3,279",151.2,Familias suburbanas,SALIDA
+2021,Staten Island,Estable,"$1,519.10"," $ 1,638.39 "," $ 64,885.81 ",9231,"508,934","3,366",151.2,Familias suburbanas,SALIDA
+2022,Staten Island,En alza,"$1,581.08"," $ 1,716.44 "," $ 65,848.89 ",7911,"508,746","3,365",151.2,Familias suburbanas,SALIDA
+2023,Staten Island,Estable,"$1,622.45"," $ 1,749.15 "," $ 67,312.42 ",9459,"508,335","3,362",151.2,Familias suburbanas,SALIDA
+2024,Staten Island,Estable,"$1,667.73"," $ 1,786.13 "," $ 68,456.83 ",8769,"515,815","3,412",151.2,Familias suburbanas,SALIDA
+2025,Staten Island,Estable,"$1,690.52"," $ 1,851.21 "," $ 69,946.11 ",9649,"517,078","3,420",151.2,Familias suburbanas,SALIDA
